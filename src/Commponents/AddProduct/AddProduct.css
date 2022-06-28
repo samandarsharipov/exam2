@@ -1,0 +1,62 @@
+.butnchaAdd{
+    color: white ;
+    background-color: chocolate ;
+    width: 100px;
+    height: 100px;
+    margin-left: 12%;
+    margin-top: -5%;
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+}
+.butnchaAdd:hover{
+    background-color: rgb(145, 74, 24) ;
+}
+.inputsAddGr{    
+    border: 4px solid chocolate;
+    border-radius: 30px;
+    padding: 70px;
+    width: 646px !important;
+    height: 585px !important;
+    margin: 0 auto; 
+}
+.btnAddAdd{
+    margin-left: 29%;
+    margin-top: 2%;
+    width: 40%;
+    background-color: chocolate !important;
+    color: white !important;
+    border-radius: 20px !important;
+}
+.inputsadd{
+    border-color: chocolate !important;
+    margin-top: 10% !important;
+}
+.buttonAddcha{
+    width: 35% !important;
+    margin-left: 33%;
+}
+select{
+    display: block;
+    width: 100%;
+    border-color: chocolate !important;
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 4% !important;
+}
+.textareaAdd{
+    display: block;
+    width: 100%;
+    border-color: chocolate;
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 4% !important;
+}
+.formEction{
+    margin-top: -5%;
+}
+.nameTitleAdd{
+margin-top: -13% !important;
+padding: 20px;
+color: chocolate;
+}

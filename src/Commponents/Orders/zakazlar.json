@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nomi": "Samsung Galaxy A52",
+        "narxi": 5499999,
+        "count": 1
+    },
+    {
+        "id":2,
+        "nomi": "Xiaomi Redmi Note 8",
+        "narxi": 1999999,
+        "count": 1
+    },
+    {
+        "id":3,
+        "nomi": "Apple Iphone 13 Pro Max",
+        "narxi": 13499999,
+        "count": 2
+    },
+    {
+        "id":4,
+        "nomi": "Huawei P 40 Lite",
+        "narxi": 2499999,
+        "count": 1
+    }
+]

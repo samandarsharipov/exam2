@@ -1,0 +1,145 @@
+.wrapper1 {
+  margin: 0;
+  padding-top: 5%;
+  background-color: rgb(223, 222, 222);
+}
+.contact4 {
+  width: 100%;
+  height: 370px;
+  background-color: rgb(243, 162, 137);
+}
+.conT {
+  width: 800px;
+  padding-top: 5%;
+  margin: 0 0 0 17% !important;
+}
+.con_img {
+  margin: 5% 0 0 35%;
+}
+.con4h {
+  color: white;
+}
+.con4p {
+  color: white;
+  margin-top: 5%;
+  width: 350px;
+}
+.contact5 {
+  margin: 5% 0 0 10% !important;
+  background-color: white;
+  width: 860px;
+  height: 100px;
+  border-radius: 1.5rem;
+  padding-top: 2%;
+}
+.con5p {
+  margin-left: 15%;
+  color: orange;
+  width: 450px;
+  font-weight: 500;
+  font-size: 15px !important;
+}
+.con1_img {
+  margin: -4% 0 0 15%;
+}
+.contact6 {
+  margin: 5% 0 0 25% !important;
+  background-color: rgb(255, 136, 0);
+  width: 500px;
+  height: 100px;
+  border-radius: 1.5rem;
+  padding-top: 2%;
+}
+.con2_img {
+  border-radius: 3rem;
+  margin: 0 0 0% 25%;
+  width: 60px;
+  height: 60px;
+}
+.con6p {
+  color: white;
+  margin-left: 5%;
+  width: 350px;
+  text-align: center;
+}
+.Footerh6 {
+  color: white;
+  margin-bottom: 10%;
+  padding-top: 10%;
+}
+.footp {
+  color: white;
+  margin-top: -5%;
+  cursor: pointer;
+}
+.footericonlar {
+  margin-top: 20%;
+  cursor: pointer;
+}
+.icontele {
+  color: white;
+  margin-left: 3%;
+  font-size: 30px;
+}
+.wrapper2 {
+  margin-top: 5%;
+  background-color: rgb(255, 136, 0);
+}
+@media screen and (max-width: 768px) {
+  .contact4 {
+    width: 100% !important;
+    margin-left: 0% !important;
+  }
+  .contact5 {
+    width: 100% !important;
+    margin-left: 0% !important;
+  }
+  .contact6 {
+    width: 75% !important;
+    margin-left: 12% !important;
+    height: 60%;
+  }
+  .conT{
+    width: 85%!important;
+  }
+  .con4h {
+    margin: 5% 0 -5% 0;
+  }
+  .con4p {
+    width: 91%;
+    font-size: 15px;
+    text-align: center;
+    margin-left: -9%;
+  }
+  .con_img {
+    position: absolute;
+    margin-top: -90%;
+    width: 130px;
+    height: 130px;
+    margin-left: 11%;
+  }
+  .con5p {
+    font-size: 12px !important;
+    width: 244px;
+    margin-left: 3%;
+  }
+  .con6p {
+    width: 85%;
+    margin-top: 20%;
+    font-size: 14px;
+    margin-left: 7%;
+  }
+  .con1_img {
+    position: absolute;
+    margin-top: -23%;
+    margin-left: 64%;
+  }
+  .con2_img {
+    position: absolute;
+    margin-top: -35%;
+    margin-left: 26%;
+  }
+  .allPlay {
+    margin-top: 40% !important;
+  }
+}

@@ -1,0 +1,40 @@
+.iconUSer{
+    font-size: 50px;
+    border: 2px solid chocolate;
+    border-radius: 30px;
+    color: black;
+    margin-top: 2%;
+}
+.iconUserphone{
+    font-size: 40px;
+    color: chocolate;
+    margin-left: 15%;
+}
+.Nameuser{
+    margin-left: 70px;
+    margin-top: -13%;
+}
+.pUser{
+    font-weight: 600;
+    margin-top: -4%;
+    width: 125%;
+}
+.P2user{
+    font-weight: 600;
+    margin-left: 30%;
+    margin-top: 7%;
+}
+.buttonsUSer{
+    margin-left: 30%;
+    
+}
+.buton1user{
+   margin-left: 10%;
+}
+
+.userRow{
+    border-top: 2px solid chocolate;
+    border-bottom: 2px solid chocolate;
+}
+
+

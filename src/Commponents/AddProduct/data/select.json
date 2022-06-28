@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Elektonika",
+        "code": "1",
+        "select2": [
+            {
+                "name": "Telefonlar",
+                "code": "1"
+              
+            },
+            {
+                "name": "Telvizorlar",
+                "code": "2"
+               
+            },
+            {
+                "name": "Smart soatlar",
+                "code": "3"
+             
+            }
+        ]
+    },
+    {
+        "name": "Maishiy texnika",
+        "code": "2",
+        "select2": [
+            {
+                "name": "Kir moshinalar",
+                "code": "1"
+            },
+            {
+                "name": "Muzlatgichlar",
+                "code": "2"
+            },
+            {
+                "name": "Konditsaner",
+                "code": "3"
+             
+            }
+        ]
+    },
+    {
+        "name": "Bolalar dunyosi",
+        "code": "3",
+        "select2": [
+            {
+                "name": "kalyaskalar",
+                "code": "1"
+            },
+            {
+                "name": "O'yinchoqlar",
+                "code": "2"
+            },
+            {
+                "name": "Kiyimlar",
+                "code": "3"
+            } 
+        ]
+   
+    },
+    {
+        "name": "Uy jixozlar",
+        "code": "4",
+        "select2": [
+            {
+                "name": "Mebelar",
+                "code": "1"
+            },
+            {
+                "name": "Oshxona jihozlar",
+                "code": "2"
+            },
+            {
+                "name": "pardalar",
+                "code": "3"
+            }
+         
+        ]
+    }
+]

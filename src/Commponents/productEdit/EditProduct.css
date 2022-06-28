@@ -1,0 +1,11 @@
+.editBtn{
+  background-color: chocolate;
+}
+.editForm{
+  border: 4px solid chocolate;
+  border-radius: 30px;
+  padding: 70px;
+  width: 646px !important;
+  height: 520px !important;
+  margin: 0 auto;
+}

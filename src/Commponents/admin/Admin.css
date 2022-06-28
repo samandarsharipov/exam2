@@ -1,0 +1,34 @@
+.globalBorder{
+    border-radius: 30px;
+    border: 3px solid chocolate;
+    width: 70%;
+    margin-left: 15%;
+   
+}
+.inputAdmin{
+    border-radius: 30px;
+    border: 2px solid chocolate;
+    width: 80%;
+    margin-top: 8%;
+}
+
+.buttonAdmin{
+    width: 30%;
+    border-radius: 25px !important;
+    margin-left: 35%;
+}
+.iconADmin{
+    font-size: 100px;
+    color: chocolate;
+    margin-top: 5%;
+}
+.inputs{
+    margin-left: 15%;
+}
+.contAdmin{
+    box-shadow: 2px 4px 5px 2px rgba(27, 27, 27, 0.133);
+    padding: 50px;
+}
+.logoAdmin{
+    text-align: center;
+}

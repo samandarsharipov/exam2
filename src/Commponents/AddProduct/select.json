@@ -1,0 +1,185 @@
+[
+    {
+        "name": "Elektonika",
+        "code": "1",
+        "select2": [
+            {
+                "name": "Telefonlar",
+                "code": "1"
+              
+            },
+            {
+                "name": "Telvizorlar",
+                "code": "2"
+               
+            },
+            {
+                "name": "Smart soatlar",
+                "code": "3"
+             
+            },
+            {
+                "name": "Quloqchinlar",
+                "code": "4"
+             
+            },
+            {
+                "name": "Planshetlar",
+                "code": "5"
+             
+            },
+            {
+                "name": "Skaeynerlar",
+                "code": "6"
+             
+            },
+             {
+                "name": "Printerlar",
+                "code": "7"
+             
+            },
+            {
+                "name": "Telefon uchun aksesuarlar",
+                "code": "8"
+            },
+            {
+                "name": "Nootbuk uchun aksesuarlar",
+                "code": "9"
+            },
+            {
+                "name": "Hammasni Korsatish",
+                "code": "9"
+            }
+        ]
+    },
+    {
+        "name": "Maishiy texnika",
+        "code": "2",
+        "select2": [
+            {
+                "name": "Kir moshinalar",
+                "code": "1"
+            },
+            {
+                "name": "Muzlatgichlar",
+                "code": "2"
+            },
+            {
+                "name": "Konditsaner",
+                "code": "3"  
+            },
+            {
+                "name": "Ehtiyod qisimlar",
+                "code": "4"
+            },
+            {
+                "name": "Kichik maishiy texnika",
+                "code": "5"
+            },
+            {
+                "name": "Oshxona maishiy qisimlar",
+                "code": "6"
+            },
+            {
+                "name": "Oshxona maishiy qisimlar",
+                "code": "7"
+            },
+            {
+                "name": "Hammsini ko'rsatish",
+                "code": "8"
+            }
+            
+
+        ]
+    },
+    {
+        "name": "Bolalar dunyosi",
+        "code": "3",
+        "select2": [
+            {
+                "name": "kalyaskalar",
+                "code": "1"
+            },
+            {
+                "name": "O'yinchoqlar",
+                "code": "2"
+            },
+            {
+                "name": "Kiyimlar",
+                "code": "3"
+            },
+            {
+                "name": "Stressga qarshi o'ychoqlar",
+                "code": "4"
+            },
+            {
+                "name": "Noodatiy o'yinchoqlar",
+                "code": "5"
+            },
+            {
+                "name": "Konstruktorlar",
+                "code": "6"
+            },
+            {
+                "name": "Klasstik o'yinchoqlar",
+                "code": "7"
+            },
+            {
+                "name": "Boshqotrima o'yinchoqlar",
+                "code": "8"
+            },
+            {
+                "name": "o'yinchoq mashinalar",
+                "code": "9"
+            },
+            {
+                "name": "suv o'yinchoqlar",
+                "code": "10"
+            },
+            {
+                "name": "elektron o'yinchoqlar",
+                "code": "11"
+            }               
+        ]
+   
+    },
+    {
+        "name": "Uy jixozlar",
+        "code": "4",
+        "select2": [
+            {
+                "name": "Mebelar",
+                "code": "1"
+            },
+            {
+                "name": "Oshxona jihozlar",
+                "code": "2"
+            },
+            {
+                "name": "Pardalar",
+                "code": "3"
+            },
+            {
+                "name": "Dizayn va bezaklar",
+                "code": "4"
+            },
+            {
+                "name": "Maishiy tolash buyumlari",
+                "code": "5"
+            },
+            {
+                "name": "Bayram marosimlar uchun buyumlar",
+                "code": "6"
+            },
+            {
+                "name": "Bog'dorchilik uchun buyumlar",
+                "code": "7"
+            },
+            {
+                "name": "Hammasni korsatish",
+                "code": "8"
+            }
+             
+        ]
+    }
+]

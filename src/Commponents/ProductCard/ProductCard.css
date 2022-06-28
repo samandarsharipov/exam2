@@ -1,0 +1,114 @@
+*{
+box-sizing: border-box;
+}
+/* KATALOG CSSS */
+.containerHome{
+    background: white;
+}
+.katalog{
+ width: 80%;
+ margin: 0 auto;
+}
+.boxKatlog{
+   display: inline-block;
+   width: 25%;
+   padding: 10px;
+   cursor: pointer;
+}
+.imgKatalog{
+    border-radius: 70px;
+    border: 5px solid chocolate;
+    width: 40%; 
+    margin-left: 30%;
+}
+.nameKatalogH4{
+  text-align: center;
+  margin-top: 5%;
+}
+.titleKat{
+    color: chocolate;
+    margin-top: 2%;
+}
+/* //cardTelefeoncss */
+.productPrice{
+    font-weight: 700;
+    color: chocolate;
+}
+.titleProduct{
+    text-align: center;
+}
+.butonchaPRoduct{
+    width: 40% !important;
+    margin-left: 7%;
+    border-radius: 10px !important;
+}
+.cardchProduct{
+    padding: 15px;
+    border: 5px solid chocolate !important; 
+    border-radius: 30px !important;
+    width: 229px;
+    height: 337px;
+}
+.imgPrductCard{
+    width: 98px;
+    height: 122px;
+    margin: 0 auto; 
+}
+/* midde part */
+.middlePart{
+    animation: show .5s ease-in-out;
+    
+}
+@keyframes show {
+    from{top: 70%; opacity: 0}
+    to{top: 50%; opacity: 1;}
+  }
+.textmiddl{
+    color: chocolate;
+}
+.textelek:hover{
+    opacity: 0.6;
+    cursor: pointer;
+    transform: translate(5px);
+}
+.panspro{
+    color: chocolate;
+    border-bottom:  2px solid chocolate;
+}
+/* HomeCSSCard */
+.btnHomePRod{
+    width: 55%;
+    margin: 0 auto;
+    background: chocolate;
+    border-radius: 10px;
+    outline: none;
+    color: #ffff;
+    padding: 5px;
+    border: none;
+}
+.productTitle{
+    font-weight: 800;
+}
+.productHomePrice{
+    font-weight: 700;
+    color: chocolate;
+    margin-top: -5%;
+}
+
+.imgHomeProd{
+    width: 100%;
+    height: 145px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.iconHomeProd{
+    margin: 0 auto;
+    font-size: 36px;
+    color: red;
+    margin-top: 6%;
+}
+.rowHomePRod{
+    margin-left: 6% !important;
+    margin-top: 4% !IMPORTANT;
+}
+

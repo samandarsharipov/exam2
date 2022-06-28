@@ -1,0 +1,205 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+nav {
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background-color: rgb(255, 136, 0);
+  height: 70px;
+}
+.navin{
+  position: relative;
+}
+.navin .search1{
+  position: absolute;
+  margin-left: 62%;
+  margin-top: -3.8%;
+  font-size: 25px;
+  color: red;
+  cursor: pointer;
+}
+.navin .search2{
+  position: absolute;
+  margin-left: 65%;
+  margin-top: -3.8%;
+  font-size: 25px;
+  color: red;
+  cursor: pointer;
+}
+
+.contactInput{
+  border-radius: 1.25rem!important;
+  margin: 4% 0 1% 30%!important;
+  width: 40%!important;
+  border-radius: 1.25rem!important;
+  border: 2px solid orange!important;
+}
+.fan{
+  width: 100%!important;
+  padding-top: 2%;
+}
+.fan1{
+  margin-left: 10%;
+}
+.menu1 {
+  position: relative;
+  display: inline-block;
+  margin-left: 7%;
+  width: 8%!important;
+}
+.menuh {
+  display: inline-block;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+.security {
+  margin-left: 3%;
+  color: white;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.security:hover{
+  color: white;
+}
+.menunav{
+  margin-left: 15%;
+  text-decoration: none;
+}
+.menunav span {
+  color: white;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.mainly{
+  display: none;
+}
+.mainly1{
+  display: none;
+}
+/* .menunav:hover{
+  text-decoration: overline !important;
+} */
+.glob {
+    margin-left: 15%;
+    margin-top: -7%!important;
+    color: white!important;
+    font-size: 23px!important;
+    outline: none!important;
+}
+.glob:hover {
+  background-color: rgb(255, 136, 0);
+}
+.navt1:hover{
+  text-decoration: none;
+}
+.menuc {
+    margin-right: 40%;
+    color: white;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .menuc1 {
+    color: white;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+.menuc:hover{
+  color: white;
+}
+.menuc1:hover{
+  color: white;
+}
+@media screen and (max-width: 768px) {
+  nav{
+    height: 40px!important;
+    width: 101%!important;
+  }
+  .security{
+    display: none;
+  }
+  .menunav span{
+    display: none;
+  }
+  .mainly{
+    display: inline-block;
+    margin-left: -8%;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .mainly1{
+    display: inline-block;
+    margin-left: -10%;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .navt1 span {
+    position: absolute;
+    margin-left: 65%;
+    margin-top: -11%;
+    font-size: 15px;
+  }
+  .menu1{
+    position: absolute!important;
+    margin-left: 80%;
+    margin-top: -11%;
+  }
+  .menuc{
+    display: inline-block;
+    position: absolute;
+    font-size: 15px;
+  }
+  .menuc1{
+    position: absolute;
+    margin-left: 60%;
+    font-size: 15px;
+  }
+  .contactInput{
+    margin: 4% 0 1% 15%!important;
+    width: 80%!important;
+  }
+  .navin .search1{
+    margin-left: 68%;
+    margin-top: -9.8%;
+  }
+  .navin .search2{
+    margin-left: 77%;
+    margin-top: -9.8%;
+  }
+  .glob{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: -15%!important;
+  }
+}
